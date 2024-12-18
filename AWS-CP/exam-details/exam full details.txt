@@ -9,6 +9,8 @@ Exam duration - 90 minutes
 
 Questions - 65
 
+15 question of no marks which is hidden while writing exam  
+
 1 Question - 15.4 // approx  
 
 The minimum passing score is 750
